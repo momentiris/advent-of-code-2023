@@ -1,0 +1,12 @@
+{
+  
+  "compilerOptions": {
+    "lib": ["es2021"],
+    "target": "es2022",
+    "baseUrl": "./",
+    "composite": true,
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck":true,
+  },
+}
+
